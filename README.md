@@ -44,7 +44,7 @@ con un CFGS de Administración de Sistemas Informáticos.
 
 🤔 Me apasiona la programacion (que pesado 🦥)
 
-💬 Pregúntame lo que quieras.
+💬 Pregúntame lo que quieras
 
 📫 Si te interesa contactarme -> contacto@juangavira.me
 
