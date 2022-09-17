@@ -12,9 +12,9 @@ Tengo un pero por así decirlo: soy muy cabezón, y cuando estoy desarrollando, 
 no funciona "bien", no puedo parar hasta arreglarlo 😅
 
 Actualmente estudiando un curso de Desarrollo de Aplicaciones con Tecnología Web en Grup Cief 
-(Barcelona). Previamente realicé curso de desarrollo web en el centro CIFO L'Hospitalet 
-de Llobregat y en su momento me titulé con un CFGS de Administración de Sistemas Informáticos.
-
+(Barcelona) presencialmente por las tardes, compáginándolo con cursos online por la mañana. Previamente 
+realicé curso de desarrollo web en el centro CIFO L'Hospitalet de Llobregat y en su momento me titulé 
+con un CFGS de Administración de Sistemas Informáticos.
 
 ## 🛠 Skills
 
