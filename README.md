@@ -40,7 +40,7 @@ con un CFGS de Administración de Sistemas Informáticos.
 
 🧠 Por las mañanas dándole a React 💕💕💕
 
-👯‍♀️ Al terminar el curso en diciembre mi intención trabajo como Junior y seguir aprendiendo.
+👯‍♀️ Al terminar el curso en diciembre mi intención es encontrar trabajo como Junior y seguir aprendiendo.
 
 🤔 Me apasiona la programacion (que pesado 🦥)
 
