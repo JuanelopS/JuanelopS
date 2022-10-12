@@ -3,18 +3,17 @@
 
 ## 🚀 Acerca de mí
 
-Hola, soy Juan Gavira, un gaditano viviendo en Barcelona. Actualmente soy un "proyecto" de 
-desarrollador web. Me apasiona todo lo relacionado con la programación. Actualmente machacando 
-Javascript ES6+ cada día, enamorándome de React, probando un poco de backend con PHP, un poco de 
-SQL por allá, supongo que lo normal.
+Hola, soy Juan Gavira, un gaditano viviendo en Barcelona. Me apasiona todo lo relacionado con la programación. 
+Actualmente soy un "proyecto" de desarrollador web machacando Javascript ES6+ cada día, enamorándome de React, 
+probando un poco de backend con PHP, un poco de SQL por allá, supongo que lo normal.
 
 Tengo un pero por así decirlo: soy muy cabezón, y cuando estoy desarrollando, si veo que algo 
 no funciona "bien", no puedo parar hasta arreglarlo 😅
 
 Actualmente estudiando un curso de Desarrollo de Aplicaciones con Tecnología Web en Grup Cief 
 (Barcelona) presencialmente por las tardes, compáginándolo con cursos online por la mañana. Previamente 
-realicé curso de desarrollo web en el centro CIFO L'Hospitalet de Llobregat y en su momento me titulé 
-con un CFGS de Administración de Sistemas Informáticos.
+realicé curso de desarrollo web en el centro CIFO L'Hospitalet de Llobregat y en su momento obtuve
+un CFGS de Administración de Sistemas Informáticos.
 
 ## 🛠 Skills
 
