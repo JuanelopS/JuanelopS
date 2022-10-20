@@ -17,12 +17,11 @@ un CFGS de Administración de Sistemas Informáticos.
 
 ## 🛠 Skills
 
-- HTML5, CSS3
+- HTML5, CSS3, SASS, Bootstrap
 - Javascript ES6+
 - React
 - PHP
 - MySQL
-- Bootstrap
 
 
 ## 🔗 Links
