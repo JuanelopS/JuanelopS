@@ -5,7 +5,7 @@
 
 Hola, soy Juan Gavira, soy de Cádiz pero vivo en Montcada i Reixac (Barcelona). Me apasiona todo lo relacionado con la programación. 
 Actualmente soy un "proyecto" de desarrollador web machacando Javascript ES6+ cada día, enamorándome de React, 
-dándole al backend con Node.js y PHP, un poco de MySQL por allá, supongo que lo normal.
+dándole al backend con Node.js y PHP, un poco de MySQL por allá...
 
 Cuando estoy desarrollando, si veo que algo no funciona "bien" o no me convence, no puedo parar hasta arreglarlo 
 y se me van las horas 😅
@@ -22,7 +22,7 @@ un CFGS de Administración de Sistemas Informáticos.
 - React
 - Node.js, PHP
 - MySQL
-
+- Git
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.juangavira.me/)
