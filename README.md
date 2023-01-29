@@ -35,13 +35,13 @@ En estos momentos trabajo como responsable de sistemas y helpdesk, pero lo que r
 
 ## Resumen para no aburrirte
 
-👩‍💻 Haciendo un curso de Grup Cief (Barcelona) por las tardes para afianzar (JS, Node.js, PHP, MYSQL)
+👩‍💻 Estudié un CFGS de Administración de Sistemas Informáticos y he realizado diversos cursos de desarrollo web. 
 
-🧠 Por las mañanas dándole a React 💕💕💕
+🧠 Actualmente trabajo como responsable de sistemas y helpdesk, pero mi pasión es la programación en general.
 
-👯‍♀️ Al terminar el curso en diciembre mi intención es encontrar trabajo como Junior y seguir aprendiendo.
+👯‍♀️ Me ilusiona aprender cosas nuevas
 
-🤔 Me apasiona la programacion (que pesado 🦥)
+🤔 Me gusta programar (que pesado 🦥)
 
 💬 Pregúntame si tienes alguna duda
 
