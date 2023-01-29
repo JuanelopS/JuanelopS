@@ -10,16 +10,17 @@ dándole al backend con Node.js y PHP, un poco de MySQL por allá...
 Cuando estoy desarrollando, si veo que algo no funciona "bien" o no me convence, no puedo parar hasta arreglarlo 
 y se me van las horas 😅
 
-Estoy asistiendo a un curso de Desarrollo de Aplicaciones con Tecnología Web en Grup Cief 
-(Barcelona) presencialmente por las tardes, compáginándolo con cursos online por la mañana. Previamente 
-realicé curso de desarrollo web en el centro CIFO L'Hospitalet de Llobregat y en su momento obtuve
-un CFGS de Administración de Sistemas Informáticos.
+Terminé en diciembre de 2022 un curso de Desarrollo de Aplicaciones con Tecnología Web en Grup Cief (Barcelona), 
+al cual asistía presencialmente por las tardes, compáginándolo con cursos online por la mañana. Previamente 
+realicé curso de desarrollo web en el centro CIFO L'Hospitalet de Llobregat y en su momento obtuve un CFGS de 
+Administración de Sistemas Informáticos.
+
+En estos momentos trabajo como responsable de sistemas y helpdesk, pero lo que realmente me gusta es la programación. 
 
 ## 🛠 Skills
 
 - HTML5, CSS3, SASS, Bootstrap
-- Javascript ES6+
-- React
+- Javascript ES6+, React
 - Node.js, PHP
 - MySQL
 - Git
