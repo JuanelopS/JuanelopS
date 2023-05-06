@@ -3,7 +3,7 @@
 
 ## 🚀 Acerca de mí
 
-Hola, soy Juan Gavira, soy de Cádiz pero vivo en Montcada i Reixac (Barcelona). Me apasiona todo lo relacionado con la programación. 
+Hola, me llamo Juan Gavira, soy de Cádiz pero vivo en Montcada i Reixac (Barcelona). Me apasiona todo lo relacionado con la programación. 
 Actualmente soy un "proyecto" de desarrollador web machacando Javascript ES6+ cada día, enamorándome de React, 
 dándole al backend con Node.js y PHP, un poco de MySQL por allá...
 
