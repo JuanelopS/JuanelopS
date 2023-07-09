@@ -23,7 +23,7 @@ En estos momentos trabajo como responsable de sistemas y helpdesk, pero lo que r
 - Javascript ES6+, React
 - Node.js, PHP
 - MySQL
-- Git
+- Git, Docker
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.juangavira.me/)
